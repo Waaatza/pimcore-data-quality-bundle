@@ -1,3 +1,8 @@
+# Watza Fork with fixes and optimisations for Pimcore 11.5 
+
+- Localized Fields Fix by gajdusek
+
+
 # Data Quality Bundle for Pimcore
 
 Depending on user-configurable weighted rules (data quality configuration objects)
